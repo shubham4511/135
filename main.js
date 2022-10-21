@@ -19,6 +19,6 @@ function modelLoaded(){
     console.log("model_loaded");
     Status=true;
 }
-function drew(){
+function draw(){
     image(video,0,0,400,380);
 }
